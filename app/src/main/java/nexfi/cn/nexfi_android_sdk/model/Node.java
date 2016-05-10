@@ -129,6 +129,7 @@ public class Node implements TransportListener {
             Log.e("TAG", "---node-------------------------------------transportLinkConnected------------");
         }
         links.add(link);
+
     }
 
     //断开连接
